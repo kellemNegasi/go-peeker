@@ -1,6 +1,7 @@
 ## go-peeker
 A cli app to check a multi gigabyte csv file without opening it in a file reader.
 ```
+
 ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮
 ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃
 ╭━━┳━━╮╱╱╭━━┳━━┳━━┫┃╭┳━━┳━╮

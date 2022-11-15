@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/kellemNegasi/go-peeker/cmd"
+)
 
 func main() {
-	fmt.Println("test app")
+	cmd.Execute()
 }
